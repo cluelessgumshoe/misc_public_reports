@@ -1,0 +1,114 @@
+---
+title: "Kayak Trip May 2019"
+subtitle: Car Placement Plan
+output:
+  html_document:
+    df_print: paged
+    self_contained: yes
+    theme: spacelab
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+  github_document: default
+  pdf_document: default
+    
+  word_document:
+    reference_docx: "../www/word_style_temp_2.docx"
+    toc: yes
+    toc_depth: 2
+---
+
+<!-- #Use this template for html or word -->
+
+```{r setup, warning = F, message = F, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+```
+
+
+<!-- #DOCUMENT BEGIN -->
+
+
+# Car Placement Variables
+
+* 7 people/kayaks
+* Camping gear
+* 4 vehicles
+    + Truck 1: Dan's, holds up to 5 kayaks 
+    + Truck 2: Brian's, holds 3-4 kayaks
+    + Subaru Outback: Justin's, holds 3-4 kayaks
+    + Jeep: Wright's, holds 3 kayaks
+* Put-in location, Greyling, MI
+* Take-out location, Oscoda, MI
+
+## Car Placement Requirements {#pairs}
+
+* *2* vehicles at each location
+* Pairs: 
+    + *Truck 1* and Jeep
+    + *Truck 2* and Subaru
+* If possible, each of the *7* people need a change of clothes in the take-out vehicles
+    + This might require facilitation prior to the trip (for whomever expects to potentially be vehicle 4)
+
+# Car Placement Plan
+
+This plan begins the moment *3* vehicles arrive in Greyling, MI
+
+1. Determine which pair of cars that have arrived are the [take-out pair](#pairs)
+2. Contact vehicle 4 for eta
+3. Choose *1-2* persons to stay and wait for vehicle 4; you are part of **Team 2**
+4. Unload camping gear and leave with these 2 persons (tents minimum)
+5. Load other gear needed for trip in the 3rd vehicle that will be returning to the put-in after dropping off the other two vehicles (to prevent gear being inadvertently left in wrong vehicle)
+6. Unload kayaks from take-out [pair](#pairs) and leave them with the two people or load what fits onto the 3rd vehicle that will be returing (Note: leaving kayaking on vehicle 3 will cost more in gas, but do not leave more at the site than the 4th vehicle en route could accomodate additionally to its current load).
+7. Proceed to take-out ([pair](#pairs) and vehicle 3); you are **Team 1**
+8. When vehicle 4 arrives, **Team 2** notifies **Team 1**
+9. Upon arrival in Oscoda, **Team 1** contacts **Team 2** and both teams vote on preparing for a float or setting up camp.  **Team 2** facilitates preparation for the winning vote while **Team 1** drives back.
+
+
+---
+
+#Vote Outcome Plans {.tabset .tabset-fade .tabset-pills}
+
+##Vote Details
+
+Takes place when **Team 1** arrives at take-out and decision is based on time.
+
+##Camp
+
+If a camp vote wins then the team will camp at a rustic site that is *~15min.* from the put-in location and the team will leave in the morning.  **Team 2** will setup camp for themselves and **Team 1**
+
+##Float
+
+If a float vote is struck then the team will leave when car 3 returns.  The team will camp after *~1hr* float.  **Team 2** will move the boats into position and prepare them to float for when vehicle 3 arrives.
+
+# Car Placement Responsibilities {.tabset .tabset-fade .tabset-pills}
+
+##Team 1
+
+* Responsible to help facilitate loading/unloading of gear
+* Responsible to place 2 vehicles at the take-out location
+* Responsible to communicate arrival at take-out 
+* Responsible to participate in vote and trust **Team 2** to care for their gear and setup
+
+
+##Team 2
+
+* Responsible to help facilitate loading/unloading of gear
+* Responsible to communicate with vehicle 4
+* Responsible to participate in vote and act on the outcome: setup tents at campsite and gear for **Team 1** or prepare boats at put-in. 
+* Responsible to communicate coordinates for **Team 2** to meet them.
+
+
+
+---
+
+
+<br>
+<br>
+EndNotes
+<br>
+<br>
+<br>
+<br>
+
+
+
